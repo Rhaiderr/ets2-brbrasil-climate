@@ -9,3 +9,8 @@ Temperaturas regionais de verão, com referências históricas, estados nativos 
 Download the .scs directly, or extract it from the .zip. Use one copy only. / Baixe o .scs diretamente ou extraia o ZIP. Use apenas uma cópia.
 
 Support / Apoie: https://buymeacoffee.com/leonardoarouck
+
+Workshop status / Situacao da Oficina: the official SCS validator rejects the .desc map-sector files required for regional climates. This release is distributed through GitHub only. O validador oficial rejeita os .desc necessarios para o clima regional; distribuicao completa somente pelo GitHub.
+
+https://modding.scssoft.com/wiki/Documentation/Tools/SCS_Workshop_Uploader/Validation_errors_and_solutions_for_them
+

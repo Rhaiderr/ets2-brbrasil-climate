@@ -19,11 +19,13 @@ The coast, inland roads and highlands deserve different temperatures. Clima Real
 
 Tested target: **BR Brasil 6.1 / ETS2 1.62**. BR Brasil is required and is not included.
 
+**Distribution: GitHub direct download.** The complete regional mod cannot currently be uploaded through SCS Workshop Uploader: it rejects the map-sector `.desc` files required to assign these climates. There is no official Workshop item for this release. See [SCS validation rules](https://modding.scssoft.com/wiki/Documentation/Tools/SCS_Workshop_Uploader/Validation_errors_and_solutions_for_them).
+
 1. Back up your existing profile and saves.
 2. Download `brbrasil-clima-real-verao.scs` from [Releases](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest). The ZIP download contains the same mod plus its guide.
 3. Copy the `.scs` file into your ETS2 `mod` folder.
 4. Activate **BR Brasil - Clima Real** **above all BR Brasil map packages** in the Mod Manager, giving it higher priority.
-5. Disable older Clima Real versions. Use only one copy, whether installed manually or through Workshop.
+5. Disable older Clima Real versions. Use only one active copy.
 
 An existing profile can be used. Other weather mods can overwrite the same climate definitions; **Weather_3.9 compatibility has not been validated**. Keep it disabled for your first test. Review compatibility again when the game or map updates.
 
@@ -83,11 +85,13 @@ Litoral, interior e serra merecem temperaturas diferentes. O Clima Real traz ref
 
 Versões de referência: **BR Brasil 6.1 / ETS2 1.62**. O mapa BR Brasil é necessário e não está incluído.
 
+**Distribuição: download direto pelo GitHub.** O mod regional completo não pode ser enviado atualmente pelo SCS Workshop Uploader: ele rejeita os arquivos de setor `.desc` necessários para atribuir os climas. Esta versão não tem item oficial na Oficina. Consulte as [regras de validação da SCS](https://modding.scssoft.com/wiki/Documentation/Tools/SCS_Workshop_Uploader/Validation_errors_and_solutions_for_them).
+
 1. Faça backup do perfil e dos saves.
 2. Baixe `brbrasil-clima-real-verao.scs` em [Releases](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest). O ZIP contém o mesmo mod e seu guia.
 3. Copie o `.scs` para a pasta `mod` do ETS2.
 4. Ative **BR Brasil - Clima Real** **acima de todos os pacotes do mapa BR Brasil** no Gerenciador de Mods, com prioridade maior.
-5. Desative versões antigas. Use apenas uma cópia, manual ou da Oficina Steam.
+5. Desative versões antigas. Use apenas uma cópia ativa.
 
 Pode usar um perfil existente. Outros mods de clima podem sobrescrever as mesmas definições; **a compatibilidade com Weather_3.9 não foi validada**. Deixe-o desligado no primeiro teste. Atualizações do jogo e do mapa exigem nova revisão de compatibilidade.
 
