@@ -67,10 +67,14 @@ Version **1.0.2** corrects description formatting and prepares the public releas
 
 If this mod makes your journeys more immersive, [buy me a coffee](https://buymeacoffee.com/leonardoarouck). Your support helps keep the project moving.
 
-Explore my other projects:
+## Explore my other mods
 
-- [ETS2 Truck Dirt](https://github.com/Rhaiderr/ets2-truck-dirt) — dynamic truck dirt.
-- [ETS2 Tire Wear](https://github.com/Rhaiderr/ets2-tire-wear) — tire wear for your journeys.
+| [ETS2 & ATS Tire Wear](https://github.com/Rhaiderr/ets2-tire-wear) | [ETS2 & ATS Truck Dirt](https://github.com/Rhaiderr/ets2-truck-dirt) |
+| --- | --- |
+| [![ETS2 & ATS Tire Wear](images/projects/ets2-tire-wear.png)](https://github.com/Rhaiderr/ets2-tire-wear) | [![ETS2 & ATS Truck Dirt](images/projects/ets2-truck-dirt.png)](https://github.com/Rhaiderr/ets2-truck-dirt) |
+| Visual tire wear and blowouts for ETS2 and ATS. | Dynamic dust, mud and road grime for ETS2 and ATS. |
+
+*Illustrative cover artwork; see each project for requirements and compatibility.*
 
 ## Credits
 
@@ -133,8 +137,14 @@ A versão **1.0.2** corrige a formatação da descrição e prepara a publicaç�
 
 Gostou de trazer mais realismo às viagens? [Apoie pelo Buy Me a Coffee](https://buymeacoffee.com/leonardoarouck) e ajude o projeto a continuar.
 
-- [ETS2 Truck Dirt](https://github.com/Rhaiderr/ets2-truck-dirt) — sujeira dinâmica no caminhão.
-- [ETS2 Tire Wear](https://github.com/Rhaiderr/ets2-tire-wear) — desgaste de pneus nas viagens.
+## Conheça meus outros mods
+
+| [ETS2 & ATS Tire Wear](https://github.com/Rhaiderr/ets2-tire-wear) | [ETS2 & ATS Truck Dirt](https://github.com/Rhaiderr/ets2-truck-dirt) |
+| --- | --- |
+| [![ETS2 & ATS Tire Wear](images/projects/ets2-tire-wear.png)](https://github.com/Rhaiderr/ets2-tire-wear) | [![ETS2 & ATS Truck Dirt](images/projects/ets2-truck-dirt.png)](https://github.com/Rhaiderr/ets2-truck-dirt) |
+| Desgaste visual e estouro de pneus para ETS2 e ATS. | Poeira, lama e sujeira de estrada dinâmicas para ETS2 e ATS. |
+
+*Capas ilustrativas; confira os requisitos e a compatibilidade em cada projeto.*
 
 ## Créditos
 
