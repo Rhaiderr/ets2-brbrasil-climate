@@ -4,17 +4,8 @@
 
 [![Download BR Brasil - Clima Real](https://img.shields.io/github/v/release/Rhaiderr/ets2-brbrasil-climate?label=Download%20Clima%20Real&style=for-the-badge&logo=github&color=2ea44f)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/leonardoarouck)
-[![PIX](https://img.shields.io/badge/PIX-Support%20via%20Pix-32BCAD?style=for-the-badge&logo=pix&logoColor=white)](#pix-brasil)
 
 **[⬇ Download / Baixar o mod (.scs)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)** · [ZIP 1.0.2](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/download/v1.0.2/brbrasil-clima-real-1.0.2.zip) · [All versions / Todas as versões](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases)
-
-### PIX (Brasil)
-
-Support the project / Apoie o projeto:
-
-```text
-fe1a4c11-6bb5-4844-b687-1f9143512862
-```
 
 ![BR Brasil - Clima Real](images/cover.png)
 
