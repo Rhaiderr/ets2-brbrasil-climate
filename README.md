@@ -7,8 +7,6 @@
 
 **[⬇ Download the latest version (.scs)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)** · [all versions](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases) · [Find more mods on Mod Hub](https://rhaiderr.github.io/mod-hub/)
 
-[Download ZIP 1.0.2](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/download/v1.0.2/brbrasil-clima-real-1.0.2.zip)
-
 ![BR Brasil - Clima Real](images/cover.png)
 
 **Feel the Brazilian summer on every journey.** Regional dashboard temperatures for **Euro Truck Simulator 2 + BR Brasil**, with changing weather states and gradual geographical transitions.
@@ -81,7 +79,7 @@ This repository hosts the public guide, images and downloadable releases. Develo
 
 **[⬇ Baixar a versão mais recente (.scs)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)** · [todas as versões](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases) · [Mais mods no Mod Hub](https://rhaiderr.github.io/mod-hub/)
 
-[Baixar ZIP 1.0.2](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/download/v1.0.2/brbrasil-clima-real-1.0.2.zip) · [Apoie o projeto](https://buymeacoffee.com/leonardoarouck)
+[Apoie o projeto](https://buymeacoffee.com/leonardoarouck)
 
 **Sinta o verão brasileiro em cada viagem.** Temperaturas regionais no painel para **Euro Truck Simulator 2 + BR Brasil**, com estados do tempo variáveis e transições graduais entre regiões.
 
