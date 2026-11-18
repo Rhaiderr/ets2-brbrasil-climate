@@ -5,7 +5,9 @@
 [![Download BR Brasil - Clima Real](https://img.shields.io/github/v/release/Rhaiderr/ets2-brbrasil-climate?label=Download%20Clima%20Real&style=for-the-badge&logo=github&color=2ea44f)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/leonardoarouck)
 
-**[⬇ Download / Baixar o mod (.scs)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)** · [ZIP 1.0.2](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/download/v1.0.2/brbrasil-clima-real-1.0.2.zip) · [All versions / Todas as versões](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases) · [Find more mods / Mais mods no Mod Hub](https://rhaiderr.github.io/mod-hub/)
+**[⬇ Download the latest version (.scs)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)** · [all versions](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases) · [Find more mods on Mod Hub](https://rhaiderr.github.io/mod-hub/)
+
+[Download ZIP 1.0.2](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/download/v1.0.2/brbrasil-clima-real-1.0.2.zip)
 
 ![BR Brasil - Clima Real](images/cover.png)
 
@@ -77,11 +79,11 @@ This repository hosts the public guide, images and downloadable releases. Develo
 
 # Português (Brasil)
 
-[Mais mods no Mod Hub](https://rhaiderr.github.io/mod-hub/)
+**[⬇ Baixar a versão mais recente (.scs)](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest/download/brbrasil-clima-real-verao.scs)** · [todas as versões](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases) · [Mais mods no Mod Hub](https://rhaiderr.github.io/mod-hub/)
+
+[Baixar ZIP 1.0.2](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/download/v1.0.2/brbrasil-clima-real-1.0.2.zip) · [Apoie o projeto](https://buymeacoffee.com/leonardoarouck)
 
 **Sinta o verão brasileiro em cada viagem.** Temperaturas regionais no painel para **Euro Truck Simulator 2 + BR Brasil**, com estados do tempo variáveis e transições graduais entre regiões.
-
-[Baixar a versão mais recente](https://github.com/Rhaiderr/ets2-brbrasil-climate/releases/latest) · [Apoie o projeto](https://buymeacoffee.com/leonardoarouck)
 
 Litoral, interior e serra merecem temperaturas diferentes. O Clima Real traz referências regionais de verão para o painel do caminhão: noites mais frescas, tardes quentes, períodos amenos e episódios de calor forte. A máxima não é um teto fixo diário, e a mesma viagem pode ter outra sensação conforme o tempo muda no jogo.
 
